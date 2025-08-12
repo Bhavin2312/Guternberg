@@ -1,7 +1,5 @@
 <?php
-get_header();
-
-?>
+get_header(); ?>
 
 <body>
     <section class="hero">
@@ -30,8 +28,8 @@ get_header();
             </div>
         </div>
     </section>
-
-
 </body>
 
-</html>
+<?php
+get_footer();
+?>
